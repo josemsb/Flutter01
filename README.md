@@ -1,4 +1,4 @@
-# Ejemplo de uso de interfaz usnado flutter
+# Ejemplo de uso de interfaz usando flutter
 
-Utiliza los controles mas usados
-Controles con estado y sin estado
+Utiliza los controles mas usados.
+Controles con estado y sin estado.
