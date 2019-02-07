@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-# interfaz01
+# Ejemplo de uso de interfaz usnado flutter
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flluter01
-Diseño de Interfaz Fluter 01
->>>>>>> origin_flutter01/master
+Utiliza los controles mas usados
+Controles con estado y sin estado
